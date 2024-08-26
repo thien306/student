@@ -1,0 +1,23 @@
+{
+  "students": [
+    {
+      "id": "2",
+      "name": "trần thị ngọc anh",
+      "address": "Nghệ An",
+      "point": 9
+    },
+    {
+      "id": "3",
+      "name": "lâm thị thủy",
+      "address": "Nghệ An",
+      "point": 7
+    },
+    {
+      "id": "4",
+      "name": "lê thị sương",
+      "address": "Nghệ An",
+      "point": 8
+    }
+  ],
+  "classrooms": []
+}
